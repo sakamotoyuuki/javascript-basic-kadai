@@ -1,5 +1,4 @@
-let userBmi;
-userBmi= 'BMI';
-userBmi= '身長';
-userBmi= '体重';
-console.log(68 / 2.89)
+let weight = 68;
+let height = 1.7;
+console.log(weight/(height*height));
+
